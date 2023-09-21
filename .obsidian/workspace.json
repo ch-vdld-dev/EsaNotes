@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_INFO/3ème INFO.md",
+                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_INFO/3ème INFO.md",
+                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_INFO/3ème INFO.md",
+                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_INFO/3ème INFO.md"
+                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md"
               }
             }
           }
@@ -161,6 +161,17 @@
   },
   "active": "9fc601a7abc2e4d6",
   "lastOpenFiles": [
+    "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
+    "3_INFO/UE-1060-Management/03. L'entreprise.md",
+    "3_INFO/UE-1060-Management/02. Introduction du Triangle.md",
+    "3_INFO/UE-1060-Management/01. Principes directeurs et cadre du cours.md",
+    "3_INFO/UE-1060-Management/Efficacité_efficience_pertinence.canvas",
+    "3_INFO/UE-1060-Management/Définition entreprise.canvas",
+    "3_INFO/UE-1060-Management/Création entreprise.canvas",
+    "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md",
+    "3_INFO/UE-873-Projet SGBD/00. UE-873-Projet SGBD.md",
+    "01 Présentation du projet.md",
+    "3_INFO/3ème INFO.md",
     "3_INFO/UE-863-Compta et ERP/00. UE-863-Compta et ERP.md",
     "3_INFO/UE-1073-Project Web/00. UE-1073-Projet Web.md",
     "3_INFO/UE-1071-Réseaux/01 Réseau.md",
@@ -168,10 +179,6 @@
     "3_INFO/UE-875-Techniques gestion projets/00. UE-875-Techniques gestion projet.md",
     "3_INFO/UE-877-Projet analyse et concept/00. UE-877-Projet d'analyse et concept.md",
     "3_INFO/UE-878-Stage/00. UE-878-Stage.md",
-    "3_INFO/UE-873-Projet SGBD/01. Présentation du projet.md",
-    "3_INFO/UE-873-Projet SGBD/00. UE-873-Projet SGBD.md",
-    "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
-    "3_INFO/3ème INFO.md",
     "README.md",
     "2_INFO/2ème INFO.md",
     "2_INFO/Veille technologique.canvas",
@@ -189,13 +196,7 @@
     "2_INFO/Battle Ship.canvas",
     "2_INFO/Base de données.md",
     "2_INFO/Base de données Commandes.md",
-    "2_INFO/Analyse.canvas",
     "2_INFO",
-    "3_INFO/UE-1060-Management/Efficacité_efficience_pertinence.canvas",
-    "3_INFO/UE-1060-Management/Définition entreprise.canvas",
-    "3_INFO/UE-1060-Management/03. L'entreprise.md",
-    "3_INFO/UE-1060-Management/02. Introduction du Triangle.md",
-    "3_INFO/UE-1060-Management/01. Principes directeurs et cadre du cours.md",
     "3_INFO/UE-878-Stage",
     "3_INFO/UE-877-Projet analyse et concept",
     "3_INFO/UE-875-Techniques gestion projets",
@@ -204,8 +205,6 @@
     "3_INFO/UE-1073-Project Web",
     "3_INFO/UE-1071-Réseaux",
     "3_INFO/UE-1060-Management",
-    "3_INFO",
-    "1_INFO/V-tech.md",
-    "1_INFO/Projet Analyse.md"
+    "3_INFO"
   ]
 }
