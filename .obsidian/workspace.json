@@ -25,14 +25,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
+                "file": "3_INFO/UE-873-Projet SGBD/02. Organisation du cours.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b777b81ff4f5b0b1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
+                "viewState": {
+                  "x": -64.87999999999994,
+                  "y": -67.33999999999978,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
+                "file": "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
+                "file": "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md"
+                "file": "3_INFO/UE-873-Projet SGBD/Modélisation.canvas"
               }
             }
           }
@@ -159,14 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc601a7abc2e4d6",
+  "active": "b777b81ff4f5b0b1",
   "lastOpenFiles": [
+    "3_INFO/UE-873-Projet SGBD/Schema étude de cas.canvas",
+    "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
+    "3_INFO/UE-873-Projet SGBD/03. Modélisation du cas d'étude.md",
     "3_INFO/UE-873-Projet SGBD/02. Organisation du cours.md",
-    "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
     "3_INFO/UE-873-Projet SGBD/00. UE-873-Projet SGBD.md",
+    "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
+    "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
     "README.md",
     "3_INFO/3ème INFO.md",
-    "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
     "3_INFO/UE-1060-Management/03. L'entreprise.md",
     "3_INFO/UE-1060-Management/02. Introduction du Triangle.md",
     "3_INFO/UE-1060-Management/01. Principes directeurs et cadre du cours.md",
@@ -191,12 +209,8 @@
     "2_INFO/Prise de note d'une vidéo.canvas",
     "2_INFO/Icom.md",
     "2_INFO/Gestion Personnel.md",
-    "2_INFO/Gestion Personnel.canvas",
     "2_INFO/Droit.md",
     "2_INFO/Chat.md",
-    "2_INFO/Battle Ship.canvas",
-    "2_INFO/Base de données.md",
-    "2_INFO/Base de données Commandes.md",
     "2_INFO",
     "3_INFO/UE-878-Stage",
     "3_INFO/UE-877-Projet analyse et concept",

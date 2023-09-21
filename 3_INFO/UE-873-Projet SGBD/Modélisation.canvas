@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3d77155cf1933d07","type":"text","text":"***Entités de données:***\nFreelance: nom, prénom, date de naissance, email\n\t- Compétence Freelance: niveau\nOrganisation: Nom, type, ...\nMissions: titre, description, nbr de semaine, nbr heure par semaine\n\t- Compétence mission: niveau requis\nCompétences: libellé\n\n*Options:*\nUtilisateurs\nRôle\nLog des opérations\nAdresse","x":-560,"y":-100,"width":540,"height":340},
+		{"id":"416cf9de57e6c79e","type":"text","text":"***Fonctionnalités principales:***\nGestion de missions: CRUD\nGestion des freelances et leurs compétences: CRUD\nGestion des organisations : CRUD\nGestion des compétences: CRUD\nAttributions d'une mission à un freelance\n\n*Options:*\nPrésentation un tableau de bord\nGestion d'adresses","x":0,"y":-407,"width":470,"height":260},
+		{"id":"9d7426238fa5dbdf","type":"text","text":"***Acteurs:****\nDevFreelance4You / membre du personnel\n","x":-560,"y":-407,"width":360,"height":205}
+	],
+	"edges":[]
+}
