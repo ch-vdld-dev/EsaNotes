@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5b4d1050802483c7","type":"text","text":"Gestion humain","x":-500,"y":-360,"width":205,"height":50},
+		{"id":"10d17fe9655fed98","type":"text","text":"Gestion financier","x":-500,"y":-280,"width":205,"height":50},
+		{"id":"f73e0905a2940b7a","type":"text","text":"Gestion matériel","x":-500,"y":-200,"width":205,"height":50},
+		{"id":"d348f79b06576a1b","type":"text","text":"Gestion immatériel","x":-500,"y":-120,"width":205,"height":50},
+		{"id":"03c0b032d71065aa","type":"text","text":"Entreprise","x":-140,"y":-250,"width":205,"height":50},
+		{"id":"87a8fa46edf7cb9d","type":"text","text":"Objectifs","x":160,"y":-250,"width":205,"height":50},
+		{"id":"dc7105afd34f2b9d","type":"text","text":"Besoins","x":160,"y":-20,"width":205,"height":50},
+		{"id":"ec6c72031eb77100","type":"text","text":"Clients","x":-140,"y":-20,"width":205,"height":50}
+	],
+	"edges":[
+		{"id":"934ccbfe468c1481","fromNode":"5b4d1050802483c7","fromSide":"right","toNode":"03c0b032d71065aa","toSide":"left"},
+		{"id":"cdb8fb0f40564046","fromNode":"10d17fe9655fed98","fromSide":"right","toNode":"03c0b032d71065aa","toSide":"left"},
+		{"id":"b0ccd2c587459aab","fromNode":"f73e0905a2940b7a","fromSide":"right","toNode":"03c0b032d71065aa","toSide":"left"},
+		{"id":"6b58aff08e5de7a8","fromNode":"d348f79b06576a1b","fromSide":"right","toNode":"03c0b032d71065aa","toSide":"left"},
+		{"id":"8705edf0346227fb","fromNode":"03c0b032d71065aa","fromSide":"right","toNode":"87a8fa46edf7cb9d","toSide":"left"},
+		{"id":"1d6d6e4ee6a91390","fromNode":"87a8fa46edf7cb9d","fromSide":"bottom","toNode":"dc7105afd34f2b9d","toSide":"top"},
+		{"id":"10c159c2fd3dffcd","fromNode":"dc7105afd34f2b9d","fromSide":"left","toNode":"ec6c72031eb77100","toSide":"right"}
+	]
+}

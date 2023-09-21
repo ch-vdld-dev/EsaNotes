@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"Cybersecurity","id":"ea652125abc371a3","x":-821,"y":-511,"width":250,"height":60},
+		{"type":"text","text":"Open Source\n","id":"ac23aecd1f468f90","x":-82,"y":-511,"width":250,"height":195},
+		{"type":"text","text":"Mémoire du futur","id":"4aea6f892112acf4","x":-821,"y":-263,"width":250,"height":60},
+		{"type":"text","text":"PowerShell\nFrédéric Clévin\n","id":"a2f8061a2112419a","x":-82,"y":-263,"width":250,"height":169}
+	],
+	"edges":[]
+}

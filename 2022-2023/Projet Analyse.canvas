@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Database","id":"dbb0d2df6ee2a4f4","x":-486,"y":-274,"width":147,"height":52},
+		{"type":"text","text":"Web App (Flask)","id":"e5633005a4d22ade","x":-124,"y":-274,"width":141,"height":60},
+		{"type":"text","text":"Release manage table gives access to the deployement environment after the approval of the release team\n\nRelease manager app table contains all informations \n\n","id":"d8ac0477c940039b","x":-666,"y":-190,"width":844,"height":191},
+		{"type":"text","text":"Env","id":"fbb9522099d95bbf","x":-591,"y":-632,"width":105,"height":50},
+		{"type":"text","text":"Release Management App","id":"91e944cdf6c03cce","x":-327,"y":-404,"width":167,"height":85},
+		{"type":"text","text":"Application","id":"765ab2f39e6c8ed2","x":-381,"y":-632,"width":166,"height":50},
+		{"type":"text","text":"Jenkins","id":"7946be536163b3cc","x":-160,"y":-541,"width":135,"height":60},
+		{"id":"15a0227b8a40f55f","x":-534,"y":-533,"width":122,"height":52,"type":"text","text":"Github"}
+	],
+	"edges":[
+		{"id":"2bb570c084522c08","fromNode":"91e944cdf6c03cce","fromSide":"left","toNode":"dbb0d2df6ee2a4f4","toSide":"top"},
+		{"id":"f8775c58614d0b35","fromNode":"91e944cdf6c03cce","fromSide":"right","toNode":"e5633005a4d22ade","toSide":"top"},
+		{"id":"b32ec5f261514797","fromNode":"e5633005a4d22ade","fromSide":"left","toNode":"dbb0d2df6ee2a4f4","toSide":"right"}
+	]
+}

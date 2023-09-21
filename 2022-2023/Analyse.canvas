@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f39e93db32093011","x":-258,"y":-566,"width":250,"height":60,"type":"text","text":"Analyse"},
+		{"id":"f4a1e31b97fcaad1","x":-258,"y":-462,"width":250,"height":50,"type":"text","text":"Entité - Association"},
+		{"type":"text","text":"Associations","id":"9ea2f88433ba051e","x":-258,"y":-254,"width":168,"height":50},
+		{"id":"fd563743a791b25a","x":-561,"y":-254,"width":124,"height":50,"type":"text","text":"Entités"},
+		{"id":"2c4eb8fa97612ec8","x":9,"y":-121,"width":132,"height":50,"type":"text","text":"Binaire"},
+		{"type":"text","text":"Tertiaire","id":"95999d838c48354e","x":294,"y":-121,"width":141,"height":50},
+		{"id":"d8e08c6f46067b2b","x":141,"y":-50,"width":168,"height":60,"type":"text","text":"Cyclique"},
+		{"type":"text","text":"Cardinalités","id":"c244058a4a923b69","x":-581,"y":-15,"width":164,"height":50},
+		{"type":"text","text":"Attributs","id":"53b4101b1634566e","x":-242,"y":-70,"width":136,"height":50}
+	],
+	"edges":[
+		{"id":"fe54201e6d5f2012","fromNode":"f39e93db32093011","fromSide":"bottom","toNode":"f4a1e31b97fcaad1","toSide":"top"},
+		{"id":"f46ca4fac2056198","fromNode":"f4a1e31b97fcaad1","fromSide":"bottom","toNode":"fd563743a791b25a","toSide":"top"},
+		{"id":"50e24209a465bbeb","fromNode":"f4a1e31b97fcaad1","fromSide":"bottom","toNode":"9ea2f88433ba051e","toSide":"top"},
+		{"id":"ae001efabddcec4f","fromNode":"9ea2f88433ba051e","fromSide":"bottom","toNode":"53b4101b1634566e","toSide":"top"},
+		{"id":"7b565d3a032936b0","fromNode":"fd563743a791b25a","fromSide":"bottom","toNode":"53b4101b1634566e","toSide":"top"},
+		{"id":"ab6065268a6dfdc9","fromNode":"9ea2f88433ba051e","fromSide":"bottom","toNode":"c244058a4a923b69","toSide":"top"},
+		{"id":"5fa5c6d8c69c6c14","fromNode":"fd563743a791b25a","fromSide":"bottom","toNode":"c244058a4a923b69","toSide":"top"},
+		{"id":"a0d1be28f93a60e8","fromNode":"9ea2f88433ba051e","fromSide":"right","toNode":"2c4eb8fa97612ec8","toSide":"top"},
+		{"id":"7dd9570094995624","fromNode":"9ea2f88433ba051e","fromSide":"right","toNode":"d8e08c6f46067b2b","toSide":"top"},
+		{"id":"6c1af7a89660184d","fromNode":"9ea2f88433ba051e","fromSide":"right","toNode":"95999d838c48354e","toSide":"top"}
+	]
+}

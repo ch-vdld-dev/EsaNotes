@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"61d2deb9e3f768e7","x":-463,"y":-546,"width":250,"height":60,"type":"text","text":"Vulgarisation"},
+		{"id":"7cebf9034b67640d","x":-463,"y":-457,"width":796,"height":971,"type":"text","text":"TEDX:\n- repousser les limites\n- passeur connaissance\n- limite franchie\n\t- journaliste 23 ans\n\t- pas scientifique\n\t- c'est pas sorcier\n- aime les mots\n\t- vocabulaire\n\t- justesse et précision\n\t- ambiance\n- radio france\n\t- contact berlin 1989\n\t- rideau de fer\n- repousser les limites\n\t- raconter avec des images qu'avec des mots\n- 1999 science et tv ?\n\t- langage d'expert\n\t- innovations\n\t- le public n'adhère plus\n- rendre la science accessible à tous\n\t- 19 ans, 570 sujets\n\t- repousser les limites des connaissances\n\t- 1ere émission sur le son\n\t- notion comme à l'école\n\t- ...\n\t- rablès au 16ème siecle\n\t- comprendre c'est bien, mais il faut transmettre sans mettre en defaut le fond\n- tout peut s'expliquer\n- émission: comme une envie de jardin\n\t- lien avec la nature\n- monde de Jamie\n\t- pédagogie immédiate\n"}
+	],
+	"edges":[
+		{"id":"cf2222fe9a8706ad","fromNode":"61d2deb9e3f768e7","fromSide":"right","toNode":"7cebf9034b67640d","toSide":"top"}
+	]
+}

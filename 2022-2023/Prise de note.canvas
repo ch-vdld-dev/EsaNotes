@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"Logiciel:\n- diffusable\n- conservation\n- lisibilité\n- matériel","id":"590b5f35d6aaeebe","x":-74,"y":-147,"width":250,"height":211},
+		{"type":"text","text":"enregistrement\ndictaphoe\n- recopier / retranscrit","id":"2855211f072677ce","x":217,"y":-147,"width":250,"height":157},
+		{"type":"text","text":"manuelle:\n- modulable\n- pratique pas besoin de matériel\n- recopier / retranscrit","id":"51eca4f7d7a81fc8","x":-360,"y":-147,"width":250,"height":211},
+		{"type":"text","text":"3 colonnes\n| thèmes | notes |  commentaire / réflexions / questions\n","id":"fbf46aed8ded1be7","x":-467,"y":112,"width":465,"height":202},
+		{"type":"text","text":"Prise de notes:\n- important ?\n- choisir ","id":"189f8427bbfcb55b","x":-74,"y":-360,"width":250,"height":102},
+		{"type":"text","text":"Note de réunion:\n- noms propres\n- fonctions\n- entreprises\n- chiffres , données\n- dates, échéances\n- éléments déterminants\n- schémas, croquis","id":"76ddb4a35f35a576","x":-592,"y":-517,"width":250,"height":314}
+	],
+	"edges":[
+		{"id":"fd8e1bcdd6514405","fromNode":"189f8427bbfcb55b","fromSide":"bottom","toNode":"51eca4f7d7a81fc8","toSide":"top"},
+		{"id":"24cc31ddf7b451ac","fromNode":"189f8427bbfcb55b","fromSide":"bottom","toNode":"590b5f35d6aaeebe","toSide":"top"},
+		{"id":"b435115bf232369c","fromNode":"189f8427bbfcb55b","fromSide":"bottom","toNode":"2855211f072677ce","toSide":"top"},
+		{"id":"488910434f724419","fromNode":"51eca4f7d7a81fc8","fromSide":"bottom","toNode":"fbf46aed8ded1be7","toSide":"top"}
+	]
+}

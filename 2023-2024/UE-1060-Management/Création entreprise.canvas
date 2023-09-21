@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"215c75908d0950dd","x":-115,"y":-645,"width":244,"height":67,"type":"text","text":"Création d'entreprise"},
+		{"id":"d73950d2e8aee506","x":-121,"y":-548,"width":250,"height":60,"type":"text","text":"Notaire"},
+		{"id":"4b4d2ccdbb692003","x":-121,"y":-454,"width":250,"height":60,"type":"text","text":"Guichet d'entreprise"},
+		{"id":"70cebe95d2bfaec5","x":-121,"y":-352,"width":250,"height":60,"type":"text","text":"BCE"}
+	],
+	"edges":[
+		{"id":"ce03c6555e3deb13","fromNode":"215c75908d0950dd","fromSide":"bottom","toNode":"d73950d2e8aee506","toSide":"top"},
+		{"id":"d747c97dbc271d23","fromNode":"d73950d2e8aee506","fromSide":"bottom","toNode":"4b4d2ccdbb692003","toSide":"top"},
+		{"id":"d48f06329cb0c6d6","fromNode":"4b4d2ccdbb692003","fromSide":"bottom","toNode":"70cebe95d2bfaec5","toSide":"top"}
+	]
+}

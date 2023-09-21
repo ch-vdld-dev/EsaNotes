@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"05bf66d6263ab004","x":-486,"y":-400,"width":250,"height":170,"type":"text","text":"Board\n- String[ ] [ ]   board\n- String owner\n- size int\n- array list boats"},
+		{"id":"e6f3b63c26c60bef","x":-92,"y":-400,"width":250,"height":186,"type":"text","text":"Boat\n- String name\n- Char shortName\n- int size, life\n- Array list coords"}
+	],
+	"edges":[]
+}

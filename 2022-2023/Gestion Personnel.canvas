@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"Ouvrier\ntarif horaire\n2x mois\nplus de paie après 14 jours\n2 jours / 160h\n10 jours formation  = +5% \nformation 4 jours /an","id":"1bf8e1c9d7a7ce54","x":-920,"y":-100,"width":300,"height":360},
+		{"type":"text","text":"Consultant\ntarif journalier\n1x mois\npas de travail pas de paie\n20 jours / an non paié","id":"f60923a78cda1801","x":-80,"y":-100,"width":300,"height":180},
+		{"type":"text","text":"Personnel:\nNom\nPrénom\nAdresse\nindexation salaire 2% /2 ans\nStatus","id":"c29503afaf9532d5","x":-485,"y":-440,"width":320,"height":200},
+		{"type":"text","text":"il faut gérer:\n- présences\n- absences\n- congés\n- formations\n- missions (consultant ?)\n- déplacements ?\n- contrats (type de travail, nombre d'heures)\n- fiches de paie\n- l'organigramme des fonctions  ?","id":"9fd1516914895318","x":440,"y":-440,"width":380,"height":380},
+		{"type":"text","text":"Employé\ntarif mensuel\n1x mois\nplus de paie après 30 jours\nfull time 20 jours\nsinon nb jours / semaine + ancienneté\nancienneté 1 jour / 3 ans\n5 jours formation = promotion\nformation 3 jours / an ","id":"2175fa6d2624bf8d","x":-475,"y":-100,"width":300,"height":360},
+		{"type":"text","text":"C#\nPAS DB : sql server mais JSON\nline de commandes\n\nSamedi début avril : après 16h\n","id":"7e1c7a0f4537b862","x":440,"y":-10,"width":380,"height":190},
+		{"type":"text","text":"Fomations","id":"8e70bf9d7155c712","x":-600,"y":540,"width":250,"height":240},
+		{"type":"text","text":"absences:\nmaladie\ncongé sans solde\n(autre congés ?)","id":"eae9be49cd64a6dc","x":190,"y":260,"width":250,"height":220},
+		{"type":"text","text":"Contrat\nstatus\ntarif\ntemps de travail\nSalaire Brutr\n","id":"969d5f46ee773feb","x":-230,"y":565,"width":300,"height":190},
+		{"type":"text","text":"fiche Paie\nméthode calcul ","id":"ffbc672ea950dbc3","x":190,"y":560,"width":250,"height":200},
+		{"type":"text","text":"Congés","id":"ba8263a1cb525470","x":570,"y":550,"width":250,"height":220},
+		{"type":"text","text":"Certificats\ndès le 2 jours d'absences","id":"1c96977bd28b0114","x":570,"y":320,"width":250,"height":100}
+	],
+	"edges":[
+		{"id":"d45aa404889e6964","fromNode":"c29503afaf9532d5","fromSide":"bottom","toNode":"1bf8e1c9d7a7ce54","toSide":"top","label":"interface ?"},
+		{"id":"e9efeea2e575e96e","fromNode":"c29503afaf9532d5","fromSide":"bottom","toNode":"2175fa6d2624bf8d","toSide":"top"},
+		{"id":"acda3ada309a08a8","fromNode":"c29503afaf9532d5","fromSide":"bottom","toNode":"f60923a78cda1801","toSide":"top"},
+		{"id":"0c8a2bb1d3a402de","fromNode":"1bf8e1c9d7a7ce54","fromSide":"bottom","toNode":"969d5f46ee773feb","toSide":"top","color":"1"},
+		{"id":"d047578dec11a1b7","fromNode":"2175fa6d2624bf8d","fromSide":"bottom","toNode":"969d5f46ee773feb","toSide":"top","color":"1"},
+		{"id":"e45d67e9a7ddf789","fromNode":"f60923a78cda1801","fromSide":"bottom","toNode":"969d5f46ee773feb","toSide":"top","color":"1"},
+		{"id":"cd2cf8342270bcca","fromNode":"969d5f46ee773feb","fromSide":"right","toNode":"ffbc672ea950dbc3","toSide":"left","color":"1"},
+		{"id":"ba3d5e917837a424","fromNode":"2175fa6d2624bf8d","fromSide":"bottom","toNode":"8e70bf9d7155c712","toSide":"top","color":"2"},
+		{"id":"53a2829c74a0faef","fromNode":"1bf8e1c9d7a7ce54","fromSide":"bottom","toNode":"8e70bf9d7155c712","toSide":"top","color":"2"},
+		{"id":"a24253c69125ee15","fromNode":"eae9be49cd64a6dc","fromSide":"bottom","toNode":"ffbc672ea950dbc3","toSide":"top"},
+		{"id":"0fc8ec460f36b91d","fromNode":"969d5f46ee773feb","fromSide":"left","toNode":"8e70bf9d7155c712","toSide":"right"},
+		{"id":"ae5dd09f56b61ee3","fromNode":"1c96977bd28b0114","fromSide":"left","toNode":"eae9be49cd64a6dc","toSide":"right"},
+		{"id":"d8aef11f174ba273","fromNode":"ba8263a1cb525470","fromSide":"left","toNode":"ffbc672ea950dbc3","toSide":"right"}
+	]
+}
