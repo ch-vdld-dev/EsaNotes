@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_INFO/2ème INFO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_INFO/2ème INFO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_INFO/2ème INFO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_INFO/2ème INFO.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "33963084455f5cba",
   "lastOpenFiles": [
+    "2_INFO/2ème INFO.md",
     "README.md",
     "2_INFO/Veille technologique.canvas",
     "2_INFO/V-tech.md",
@@ -165,7 +166,6 @@
     "2_INFO/Base de données.md",
     "2_INFO/Base de données Commandes.md",
     "2_INFO/Analyse.canvas",
-    "2_INFO/2ème INFO.md",
     "2_INFO",
     "3_INFO/UE-878-Stage/00-UE-878-Stage.md",
     "3_INFO/UE-877-Projet analyse et concept/00-UE-877-Projet d'analyse et concept.md",

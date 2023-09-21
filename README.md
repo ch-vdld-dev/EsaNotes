@@ -1,6 +1,6 @@
 # EsaNotes
 Notes with Obsidian (Markdown language)
-To share my notes with my students colleagues. And also have they notes
+To share my notes with my students colleagues. And also have their notes
 
 ### Best Practice
 Don't forget :
