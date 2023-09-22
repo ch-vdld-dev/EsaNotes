@@ -37,7 +37,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/Projet.canvas",
+                "file": "3_INFO/Projets/UE-873-Projet.canvas",
                 "viewState": {
                   "x": -45,
                   "y": -83.5,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/Projet.canvas",
+                "file": "3_INFO/Projets/UE-873-Projet.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/Projet.canvas",
+                "file": "3_INFO/Projets/UE-873-Projet.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_INFO/UE-873-Projet SGBD/Projet.canvas"
+                "file": "3_INFO/Projets/UE-873-Projet.canvas"
               }
             }
           }
@@ -176,15 +176,16 @@
   },
   "active": "b777b81ff4f5b0b1",
   "lastOpenFiles": [
+    "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
+    "3_INFO/Projets",
+    "3_INFO/Projets/UE-873-Projet.canvas",
     "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
-    "3_INFO/UE-873-Projet SGBD/Projet.canvas",
     "3_INFO/UE-873-Projet SGBD/Projet SGBD.canvas",
     "3_INFO/UE-873-Projet SGBD/Schema étude de cas.canvas",
     "3_INFO/UE-873-Projet SGBD/03. Modélisation du cas d'étude.md",
     "3_INFO/UE-873-Projet SGBD/02. Organisation du cours.md",
     "3_INFO/UE-873-Projet SGBD/00. UE-873-Projet SGBD.md",
     "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
-    "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
     "README.md",
     "3_INFO/3ème INFO.md",
     "3_INFO/UE-1060-Management/03. L'entreprise.md",
@@ -207,7 +208,6 @@
     "2_INFO/Projet Analyse.md",
     "2_INFO/Projet Analyse.canvas",
     "2_INFO/Projet Analyse 1.canvas",
-    "2_INFO/Prise de note.canvas",
     "2_INFO/Icom.md",
     "2_INFO/Gestion Personnel.md",
     "2_INFO/Droit.md",
@@ -220,7 +220,6 @@
     "3_INFO/UE-863-Compta et ERP",
     "3_INFO/UE-1073-Project Web",
     "3_INFO/UE-1071-Réseaux",
-    "3_INFO/UE-1060-Management",
-    "3_INFO"
+    "3_INFO/UE-1060-Management"
   ]
 }
