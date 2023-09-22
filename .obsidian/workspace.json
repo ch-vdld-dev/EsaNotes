@@ -35,14 +35,11 @@
             "id": "b777b81ff4f5b0b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3_INFO/Projets/UE-873-Projet.canvas",
-                "viewState": {
-                  "x": -45,
-                  "y": -83.5,
-                  "zoom": 0
-                }
+                "file": "3_INFO/Projets/UE-873-Projet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_INFO/Projets/UE-873-Projet.canvas",
+                "file": "3_INFO/Projets/UE-873-Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_INFO/Projets/UE-873-Projet.canvas",
+                "file": "3_INFO/Projets/UE-873-Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_INFO/Projets/UE-873-Projet.canvas"
+                "file": "3_INFO/Projets/UE-873-Projet.md"
               }
             }
           }
@@ -177,13 +174,14 @@
   "active": "b777b81ff4f5b0b1",
   "lastOpenFiles": [
     "3_INFO/UE-873-Projet SGBD/01. Présentation du cours.md",
-    "3_INFO/Projets",
+    "3_INFO/Projets/UE-873-Projet.md",
+    "3_INFO/UE-873-Projet SGBD/02. Organisation du cours.md",
     "3_INFO/Projets/UE-873-Projet.canvas",
+    "3_INFO/Projets",
     "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
     "3_INFO/UE-873-Projet SGBD/Projet SGBD.canvas",
     "3_INFO/UE-873-Projet SGBD/Schema étude de cas.canvas",
     "3_INFO/UE-873-Projet SGBD/03. Modélisation du cas d'étude.md",
-    "3_INFO/UE-873-Projet SGBD/02. Organisation du cours.md",
     "3_INFO/UE-873-Projet SGBD/00. UE-873-Projet SGBD.md",
     "3_INFO/UE-1060-Management/00. UE-1060-Management.md",
     "README.md",
