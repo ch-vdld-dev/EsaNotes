@@ -33,8 +33,8 @@
 		{"id":"2e6da5fcb0c7e85a","type":"text","text":"Relations Internationales","x":180,"y":940,"width":250,"height":60,"color":"2"},
 		{"id":"4db71096eee18827","type":"text","text":"Politiques","x":800,"y":-440,"width":250,"height":60,"color":"5"},
 		{"id":"478c70279ef116fd","type":"text","text":"Lois","x":800,"y":-380,"width":250,"height":60,"color":"5"},
-		{"id":"25ff1c1db574e47e","type":"text","text":"direct","x":800,"y":-280,"width":250,"height":60,"color":"5"},
-		{"id":"a78a6c2b75824941","type":"text","text":"Indirect","x":800,"y":-220,"width":250,"height":60,"color":"5"},
+		{"id":"25ff1c1db574e47e","type":"text","text":"direct","x":800,"y":-200,"width":250,"height":60,"color":"5"},
+		{"id":"a78a6c2b75824941","type":"text","text":"Indirect","x":800,"y":-140,"width":250,"height":60,"color":"5"},
 		{"id":"19c92890f829da77","type":"text","text":"Partenaires","x":180,"y":-20,"width":250,"height":60,"color":"4"},
 		{"id":"9cdf11e4d75b2394","type":"text","text":"Salariés","x":180,"y":80,"width":250,"height":60,"color":"4"}
 	],
