@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"215c75908d0950dd","x":-115,"y":-645,"width":244,"height":67,"type":"text","text":"Création d'entreprise"},
-		{"id":"d73950d2e8aee506","x":-121,"y":-548,"width":250,"height":60,"type":"text","text":"Notaire"},
-		{"id":"4b4d2ccdbb692003","x":-121,"y":-454,"width":250,"height":60,"type":"text","text":"Guichet d'entreprise"},
-		{"id":"70cebe95d2bfaec5","x":-121,"y":-352,"width":250,"height":60,"type":"text","text":"BCE"}
+		{"id":"d73950d2e8aee506","type":"text","text":"Notaire","x":-121,"y":-548,"width":244,"height":60},
+		{"id":"4b4d2ccdbb692003","type":"text","text":"Guichet d'entreprise","x":-121,"y":-454,"width":244,"height":60},
+		{"id":"70cebe95d2bfaec5","type":"text","text":"BCE","x":-121,"y":-352,"width":244,"height":60},
+		{"id":"215c75908d0950dd","type":"text","text":"Création d'entreprise","x":-121,"y":-660,"width":244,"height":80}
 	],
 	"edges":[
 		{"id":"ce03c6555e3deb13","fromNode":"215c75908d0950dd","fromSide":"bottom","toNode":"d73950d2e8aee506","toSide":"top"},
