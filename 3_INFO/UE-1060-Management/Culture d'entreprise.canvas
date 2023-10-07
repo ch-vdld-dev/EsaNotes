@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"3641701650741fbd","type":"text","text":"Culture d'entreprise","x":-120,"y":-380,"width":200,"height":60},
+		{"id":"ee7801c8ad80314b","x":203,"y":40,"width":157,"height":60,"type":"text","text":"Motivation"},
+		{"id":"eb634266268563c7","x":203,"y":-20,"width":157,"height":60,"type":"text","text":"Compétences"},
+		{"id":"ad984917dbf4cca2","x":-480,"y":-80,"width":117,"height":60,"type":"text","text":"Identité"},
+		{"id":"360ba17e70566a17","x":-323,"y":-79,"width":117,"height":60,"type":"text","text":"Histoire"},
+		{"id":"7d4e64a6370191cf","type":"text","text":"Culture organisationnelle","x":-390,"y":-210,"width":250,"height":60},
+		{"id":"6502afa7c93ed129","x":-360,"y":40,"width":192,"height":100,"type":"text","text":"départ, succès, parcours, fait marquant"},
+		{"id":"95b46d39f74a9f62","type":"text","text":"","x":110,"y":-210,"width":250,"height":60},
+		{"id":"028cb6d2d102c690","x":-640,"y":-79,"width":116,"height":60,"type":"text","text":"Règles"},
+		{"id":"dca034fc1221bb57","x":-168,"y":-80,"width":117,"height":60,"type":"text","text":"Valeurs"},
+		{"id":"c3869866e8036e2a","x":-120,"y":40,"width":197,"height":60,"type":"text","text":"moral, éthique, ..."},
+		{"id":"9a1b326f37c7cb78","x":-655,"y":40,"width":147,"height":180,"type":"text","text":"Normes, rites, code vestimentaire, jargon interne, pratique RH"},
+		{"id":"cfde89c056fd7435","x":-820,"y":-79,"width":118,"height":60,"type":"text","text":"Vision"},
+		{"id":"a9b9dd0a6b46a2aa","x":-831,"y":40,"width":141,"height":102,"type":"text","text":"Objectifs, moyen alloués"}
+	],
+	"edges":[
+		{"id":"de4e1dc465681357","fromNode":"3641701650741fbd","fromSide":"bottom","toNode":"7d4e64a6370191cf","toSide":"top"},
+		{"id":"38a05fb927b18502","fromNode":"3641701650741fbd","fromSide":"bottom","toNode":"95b46d39f74a9f62","toSide":"top"},
+		{"id":"bd483054b9c02dc0","fromNode":"7d4e64a6370191cf","fromSide":"bottom","toNode":"ad984917dbf4cca2","toSide":"top"},
+		{"id":"a065c069543890f5","fromNode":"7d4e64a6370191cf","fromSide":"bottom","toNode":"360ba17e70566a17","toSide":"top"},
+		{"id":"cf80432c69a46c05","fromNode":"7d4e64a6370191cf","fromSide":"bottom","toNode":"dca034fc1221bb57","toSide":"top"},
+		{"id":"8cc4f2512cc3a095","fromNode":"dca034fc1221bb57","fromSide":"bottom","toNode":"c3869866e8036e2a","toSide":"top"},
+		{"id":"8f0e222aa5b9d9dc","fromNode":"360ba17e70566a17","fromSide":"bottom","toNode":"6502afa7c93ed129","toSide":"top"},
+		{"id":"5b1fb4af18ed7a14","fromNode":"7d4e64a6370191cf","fromSide":"left","toNode":"028cb6d2d102c690","toSide":"top"},
+		{"id":"73e8260554b233c0","fromNode":"028cb6d2d102c690","fromSide":"bottom","toNode":"9a1b326f37c7cb78","toSide":"top"},
+		{"id":"47972b4c86e79d22","fromNode":"7d4e64a6370191cf","fromSide":"left","toNode":"cfde89c056fd7435","toSide":"top"},
+		{"id":"64ee92671cf8c7e5","fromNode":"cfde89c056fd7435","fromSide":"bottom","toNode":"a9b9dd0a6b46a2aa","toSide":"top"}
+	]
+}
