@@ -18,24 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6657652b6064c500",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3_INFO/UE-1060-Management/Culture d'entreprise.canvas",
-                "viewState": {
-                  "x": -316.3200000000005,
-                  "y": -32.37999999999997,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_INFO/UE-1060-Management/Culture d'entreprise.canvas",
+                "file": "3_INFO/UE-1060-Management/06. Relations inter-entreprises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_INFO/UE-1060-Management/Culture d'entreprise.canvas",
+                "file": "3_INFO/UE-1060-Management/06. Relations inter-entreprises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_INFO/UE-1060-Management/Culture d'entreprise.canvas"
+                "file": "3_INFO/UE-1060-Management/06. Relations inter-entreprises.md"
               }
             }
           }
@@ -162,22 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6657652b6064c500",
+  "active": "d90d0bf650059757",
   "lastOpenFiles": [
+    "3_INFO/UE-875-Techniques gestion projets/03. Exercice 3.md",
+    "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
+    "3_INFO/UE-873-Projet SGBD/Modélisation Projet.canvas",
+    "3_INFO/UE-1060-Management/Culture d'entreprise.canvas",
     "3_INFO/UE-1060-Management/07. La culture d'entreprise.md",
     "3_INFO/UE-1060-Management/06. Relations inter-entreprises.md",
     "3_INFO/UE-1060-Management/05. Influence de l'entreprise sur l'environnement.md",
     "3_INFO/UE-1060-Management/04. L'évolution de l'entreprise.md",
     "3_INFO/UE-1060-Management/03. L'entreprise.md",
-    "3_INFO/UE-1060-Management/Culture d'entreprise.canvas",
     "3_INFO/UE-1060-Management/Evolution de l'entreprise.canvas",
     "3_INFO/UE-1060-Management/Overview.canvas",
     "3_INFO/UE-1060-Management/Définition entreprise.canvas",
     "3_INFO/UE-1060-Management/Efficacité_efficience_pertinence.canvas",
     "3_INFO/UE-1060-Management/Environnement.canvas",
-    "3_INFO/UE-873-Projet SGBD/Modélisation Projet.canvas",
-    "3_INFO/UE-873-Projet SGBD/Modélisation.canvas",
-    "3_INFO/UE-875-Techniques gestion projets/03. Exercice 3.md",
     "README.md",
     "3_INFO/UE-875-Techniques gestion projets/02. Projet.md",
     "3_INFO/UE-875-Techniques gestion projets/01. Introduction.md",
