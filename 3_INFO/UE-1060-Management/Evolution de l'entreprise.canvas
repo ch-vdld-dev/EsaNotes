@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"15077ddd593f10e6","x":-60,"y":-160,"width":250,"height":60,"color":"3","type":"text","text":"Faire face aux évolutions défavorables"},
+		{"id":"22182ecfaceac25a","x":-60,"y":-100,"width":250,"height":60,"color":"3","type":"text","text":"Anticiper les évolutions pour ne pas se laisser surprendre"},
+		{"id":"e95d3f2569de890a","x":-60,"y":-220,"width":250,"height":60,"color":"3","type":"text","text":"Ignorer les modification de l'environnement"},
+		{"id":"b45e2a4a23c79807","x":260,"y":-160,"width":250,"height":60,"color":"5","type":"text","text":"stratégie défensive"},
+		{"id":"95bacd1856920508","x":260,"y":-220,"width":250,"height":60,"color":"5","type":"text","text":"absence de stratégie particulière"},
+		{"id":"162e1f50a011e76a","x":260,"y":-100,"width":250,"height":60,"color":"5","type":"text","text":"stratégie offensive"},
+		{"id":"f51717502d2352af","x":-60,"y":-310,"width":250,"height":60,"color":"2","type":"text","text":"Comportement de l'entreprise"},
+		{"id":"5c52abbc958d365d","x":260,"y":-310,"width":250,"height":60,"color":"4","type":"text","text":"Analyse en terme de stratégie"},
+		{"id":"6c2b6fc4eb3174a7","x":-400,"y":-310,"width":265,"height":60,"color":"1","type":"text","text":"Evolution de l'envionnement"}
+	],
+	"edges":[
+		{"id":"9bc34e4cbf2340bc","fromNode":"e95d3f2569de890a","fromSide":"right","toNode":"95bacd1856920508","toSide":"left"},
+		{"id":"25297be9d4995e8d","fromNode":"15077ddd593f10e6","fromSide":"right","toNode":"b45e2a4a23c79807","toSide":"left"},
+		{"id":"e64f94853378b33b","fromNode":"22182ecfaceac25a","fromSide":"right","toNode":"162e1f50a011e76a","toSide":"left"},
+		{"id":"57558eceb05bac52","fromNode":"6c2b6fc4eb3174a7","fromSide":"right","toNode":"f51717502d2352af","toSide":"left"},
+		{"id":"426a0c0ba19fa46d","fromNode":"f51717502d2352af","fromSide":"bottom","toNode":"e95d3f2569de890a","toSide":"top"},
+		{"id":"d9db8375a17f481f","fromNode":"5c52abbc958d365d","fromSide":"bottom","toNode":"95bacd1856920508","toSide":"top"}
+	]
+}
