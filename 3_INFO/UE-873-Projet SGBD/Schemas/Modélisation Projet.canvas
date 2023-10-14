@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3d77155cf1933d07","type":"text","text":"***Entités de données:***\n- Organisation: Nom, adresse, type (propriétaire ou locataire), type (entreprise ou organisation), ...\n- Locaux: propriétaire, adresse, description, loyer, surface, type (meublé ou pas), ...\n- Bureaux: propriétaire, adresse, description, loyer, nb de bueaux,  ...\n- contrat: type (local et/ou bureau), début et fin de location,\n\n\n- membre du personnel: id, email, password, roles\n- roles: id, nom, description\n\n*Options:*\nAdresse\n\t- code postal, nom ville\n\t- nom de rue\n\n\nrevoir le locataire\ndefinition \néquipements ?\n\n","x":-660,"y":-180,"width":700,"height":460},
+		{"id":"416cf9de57e6c79e","type":"text","text":"***Fonctionnalités principales:***\nGestion des organisations : CRUD ou désactivé\nGestion des locaux: CRUD\nGestion des bureaux: CRUD\nGestion de contract: CRUD\n\n*Options:*\nPrésentation un tableau de bord\nGestion d'adresses\nGestion des fournitures","x":60,"y":-461,"width":470,"height":287},
+		{"id":"9d7426238fa5dbdf","type":"text","text":"***Acteurs:****\nFlexiWorkplace / membre du personnel","x":-660,"y":-461,"width":360,"height":205}
+	],
+	"edges":[]
+}
