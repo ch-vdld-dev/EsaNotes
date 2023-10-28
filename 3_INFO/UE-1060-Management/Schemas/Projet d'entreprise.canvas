@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d2dd72da41e8e5ac","type":"text","text":"Objectif commun adhéré par tout le monde","x":-140,"y":-220,"width":250,"height":60},
+		{"id":"768eb8f56184acf4","x":0,"y":-80,"width":250,"height":60,"type":"text","text":"Résistances"},
+		{"id":"b0d1ae60a4c3409b","x":-280,"y":-80,"width":250,"height":60,"type":"text","text":"Pressions"},
+		{"id":"3bf05122bc5b8434","x":0,"y":0,"width":250,"height":100,"type":"text","text":"relations agiles:\n- leaders\n- collaborateurs"},
+		{"id":"eb9938424f49de16","type":"text","text":"Projet d'entreprise","x":-140,"y":-320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"035038d28fe85d35","fromNode":"d2dd72da41e8e5ac","fromSide":"bottom","toNode":"b0d1ae60a4c3409b","toSide":"top"},
+		{"id":"991e937bc29470bb","fromNode":"d2dd72da41e8e5ac","fromSide":"bottom","toNode":"768eb8f56184acf4","toSide":"top"},
+		{"id":"6ee460c20d4b6144","fromNode":"768eb8f56184acf4","fromSide":"bottom","toNode":"3bf05122bc5b8434","toSide":"top"},
+		{"id":"acfdd230ca35d539","fromNode":"eb9938424f49de16","fromSide":"bottom","toNode":"d2dd72da41e8e5ac","toSide":"top"}
+	]
+}

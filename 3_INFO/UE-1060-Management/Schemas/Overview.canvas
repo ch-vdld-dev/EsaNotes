@@ -1,1 +1,31 @@
-{}
+{
+	"nodes":[
+		{"id":"46793b7324131f9f","type":"text","text":"Triangle : Objectifs - Ressources - Résultats\n- Efficacité\n- Efficience\n- Pertinence de l'action : définition des objects","x":190,"y":-720,"width":380,"height":180,"color":"2"},
+		{"id":"92a6360c978d4fda","type":"text","text":"Appropriation / Adhésion des outils de gestion:\n- faire intégrer, appliquer les personnes à l'outils","x":190,"y":-540,"width":413,"height":180,"color":"2"},
+		{"id":"909361f8ce57c72f","type":"text","text":"Agent économique","x":-705,"y":-710,"width":250,"height":60,"color":"4"},
+		{"id":"1d963fe4321812f7","type":"text","text":"Défintion:","x":-570,"y":-590,"width":230,"height":60,"color":"3"},
+		{"id":"2be1392bfbdf21b8","type":"text","text":"MANAGEMENT - Entreprise","x":-170,"y":-570,"width":180,"height":60,"color":"1"},
+		{"id":"9944263202ee234c","type":"text","text":"Environnement:","x":-590,"y":-530,"width":250,"height":60,"color":"3"},
+		{"id":"dc444a0f8c3f8389","type":"text","text":"Agent humain:\n- formation","x":-455,"y":-740,"width":250,"height":90,"color":"4"},
+		{"id":"2c38068f472c333a","type":"text","text":"macro environnement","x":-455,"y":-370,"width":250,"height":60,"color":"4"},
+		{"id":"bcc8712b9aa3e663","type":"text","text":"micro environnement","x":-705,"y":-370,"width":250,"height":60,"color":"4"},
+		{"id":"9912e872f633cab6","type":"text","text":"Agilité","x":-455,"y":-280,"width":250,"height":60},
+		{"id":"a58c44df7e9e3349","type":"text","text":"Diversifications:\n- clients\n- produits","x":-705,"y":-280,"width":250,"height":100},
+		{"id":"defc71b3edeb7b7d","type":"text","text":"Culture d'entrerpise","x":190,"y":-310,"width":250,"height":60},
+		{"id":"0c1aeb1bbc6d29c4","type":"text","text":"Projet d'entreprise","x":440,"y":-310,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2b0cb3854f933087","fromNode":"2be1392bfbdf21b8","fromSide":"right","toNode":"46793b7324131f9f","toSide":"left"},
+		{"id":"2b8b37e3f67af83e","fromNode":"92a6360c978d4fda","fromSide":"bottom","toNode":"defc71b3edeb7b7d","toSide":"top"},
+		{"id":"124bff3a25bb3a85","fromNode":"92a6360c978d4fda","fromSide":"bottom","toNode":"0c1aeb1bbc6d29c4","toSide":"top"},
+		{"id":"83935495cb4b4151","fromNode":"2be1392bfbdf21b8","fromSide":"right","toNode":"92a6360c978d4fda","toSide":"left"},
+		{"id":"bf618b79d9cad4aa","fromNode":"1d963fe4321812f7","fromSide":"top","toNode":"909361f8ce57c72f","toSide":"bottom"},
+		{"id":"af10f3b8b493ca22","fromNode":"1d963fe4321812f7","fromSide":"top","toNode":"dc444a0f8c3f8389","toSide":"bottom"},
+		{"id":"d1b2d4ac0e1ab08e","fromNode":"2be1392bfbdf21b8","fromSide":"left","toNode":"1d963fe4321812f7","toSide":"right"},
+		{"id":"ee84e38217a03ef8","fromNode":"2be1392bfbdf21b8","fromSide":"left","toNode":"9944263202ee234c","toSide":"right"},
+		{"id":"fc343339f4dda518","fromNode":"9944263202ee234c","fromSide":"bottom","toNode":"2c38068f472c333a","toSide":"top"},
+		{"id":"229a75b76f6e765f","fromNode":"9944263202ee234c","fromSide":"bottom","toNode":"bcc8712b9aa3e663","toSide":"top"},
+		{"id":"c158e0c47d30a3fb","fromNode":"2c38068f472c333a","fromSide":"bottom","toNode":"9912e872f633cab6","toSide":"top"},
+		{"id":"31c2fe6045171f74","fromNode":"bcc8712b9aa3e663","fromSide":"bottom","toNode":"a58c44df7e9e3349","toSide":"top"}
+	]
+}
