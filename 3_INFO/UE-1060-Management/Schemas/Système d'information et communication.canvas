@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"291afa6fee0440f8","type":"text","text":"Système d'information","x":-160,"y":-260,"width":220,"height":60},
+		{"id":"b410cadd1a89ce6b","type":"text","text":"Système de pilotage","x":20,"y":-350,"width":200,"height":60},
+		{"id":"6a886bb7da0a3ea5","type":"text","text":"Système opérant","x":-320,"y":-350,"width":200,"height":60},
+		{"id":"27a1df3aeafea103","x":-420,"y":143,"width":120,"height":52,"type":"text","text":"Collecter"},
+		{"id":"0e0d99c95be68641","x":-240,"y":143,"width":120,"height":52,"type":"text","text":"Stocker"},
+		{"id":"6fa97d2656c1bde2","x":-64,"y":143,"width":204,"height":52,"type":"text","text":"Traiter / Transformer"},
+		{"id":"08a01b0430989b51","x":200,"y":143,"width":120,"height":52,"type":"text","text":"Diffuser"},
+		{"id":"33c0444dd589d536","x":-417,"y":226,"width":114,"height":54,"type":"text","text":"Externe"},
+		{"id":"98ebf1640ab33718","type":"text","text":"Interne","x":203,"y":60,"width":114,"height":52},
+		{"id":"3b22af2cbb9615c8","type":"text","text":"Externe","x":203,"y":226,"width":114,"height":54},
+		{"id":"47275dfc2995a20d","x":-417,"y":60,"width":114,"height":52,"type":"text","text":"Interne"}
+	],
+	"edges":[
+		{"id":"f709a680248d30ff","fromNode":"6a886bb7da0a3ea5","fromSide":"bottom","toNode":"291afa6fee0440f8","toSide":"left","fromEnd":"arrow"},
+		{"id":"ab3d7cb7146f1a55","fromNode":"291afa6fee0440f8","fromSide":"right","toNode":"b410cadd1a89ce6b","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"2da07fcaeb4d073f","fromNode":"27a1df3aeafea103","fromSide":"right","toNode":"0e0d99c95be68641","toSide":"left"},
+		{"id":"a853a7f2e5ea126b","fromNode":"0e0d99c95be68641","fromSide":"right","toNode":"6fa97d2656c1bde2","toSide":"left"},
+		{"id":"9bbc3f95fa4c4827","fromNode":"6fa97d2656c1bde2","fromSide":"right","toNode":"08a01b0430989b51","toSide":"left"},
+		{"id":"f17d1c617ac97a61","fromNode":"33c0444dd589d536","fromSide":"top","toNode":"27a1df3aeafea103","toSide":"bottom"},
+		{"id":"f3f4ba2b42266448","fromNode":"47275dfc2995a20d","fromSide":"bottom","toNode":"27a1df3aeafea103","toSide":"top"},
+		{"id":"f87b7237cfd86149","fromNode":"08a01b0430989b51","fromSide":"top","toNode":"98ebf1640ab33718","toSide":"bottom"},
+		{"id":"afa56f9194b34bdb","fromNode":"08a01b0430989b51","fromSide":"bottom","toNode":"3b22af2cbb9615c8","toSide":"top"}
+	]
+}
